@@ -61,9 +61,20 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinushamadushan2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinushamadushan2000&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamadushan2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/dinushamadushan2000">
+    <img src="https://github-readme-stats.vercel.app/api?username=dinushamadushan2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dinushamadushan2000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinushamadushan2000&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dinushamadushan2000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamadushan2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</p>
