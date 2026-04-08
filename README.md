@@ -1,45 +1,69 @@
-<h1 align="center">Hi 👋, I'm Dinusha Madushan</h1>
-<h3 align="center">I'm an individual who is studying as a Software Engineering Undergraduate who has skills in front end development , cyber security , Ghrapic designing , Planning , Co-ordinating , Communicating ,TeamWorking areas. l wish to help the company to achieve their goals ,objectives and wish to work towards company's vision..</h3>
-<hr>
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/dinusha-madushan-9ba32a247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinusha madushan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dinusha.madushan.526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaveen buddhika" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dinusha_0411/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaveen_199" height="30" width="40" /></a>
-<a href="https://www.behance.net/dinushamadushan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gaveenbuddhika" height="30" width="40" /></a>
-<a href="https://medium.com/@dmadushan269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gaveenbuddhika" height="30" width="40" /></a>
-</p> <p></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dinusha%20Madushan&fontSize=50&animation=fadeIn" alt="Header" />
+</div>
 
+<h1 align="center">Hi there, I'm Dinusha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+<h3 align="center">Associate Software Engineer | Cybersecurity Enthusiast | UI/UX Designer</h3>
 
+<div align="center">
+  <p><em>Dynamic Software Engineering undergraduate with a robust foundation in scalable backend development, frontend technologies, and secure coding. Passionate about problem-solving, project coordination, and leveraging innovative solutions to drive organizational success.</em></p>
+</div>
 
-<h3 align="center">Languages</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/> 
- <img src="https://www.svgrepo.com/show/452091/python.svg" alt="bash" width="40" height="40"/> </p>
+<br>
 
-<h3 align="center">Tools & Technologies</h3>
- <p align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-       <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" width="40" height="40"/> 
-    <img src="https://www.svgrepo.com/show/353443/aws.svg" alt="aws" width="40" height="40"/> 
-    <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="kubernetes" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" width="40" height="40"/> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dinusha-madushan-9ba32a247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/dinushamadushan1"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://medium.com/@dmadushan269"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:dmadushan269@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
+---
 
-  <p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
+### 💼 Work Experience
+- **Associate Software Engineer** @ *Etronic Solutions* (Aug 2025 - Present)
+- **Trainee Software Engineer** @ *Etronic Solutions* (Jan 2025 - July 2025)
 
+### 🎓 Education
+- **BSc. (Hons) in Software Engineering** - *University of Kelaniya* (GPA: 3.2/4.0)
 
-<p></p>
-<p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinushamadushan2000&show_icons=true&locale=en&layout=compact" alt="gaveenbuddhika" /></p>
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dinushamadushan2000&show_icons=true&locale=en" alt="gaveenbuddhika" /></p>
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=php,java,js,c,cpp,html,css" alt="Languages" />
+  
+  <h4>Frameworks & Libraries</h4>
+  <img src="https://skillicons.dev/icons?i=react,spring,express,nodejs,bootstrap,materialui,tailwind" alt="Frameworks" />
+  
+  <h4>Databases & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,postman" alt="DevOps" />
+
+  <h4>Design & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop" alt="Design" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Real-Time Chat App** | Real-time messaging platform managing user connections, broadcasting, and state management. | `React`, `Express.js`, `MongoDB`, `Socket.IO`, `Docker` |
+| **Online Clothing Store** | Full-featured e-commerce platform with Spring Security, scalable architecture, and dynamic UI. | `React`, `Spring Boot`, `MySQL`, `Tailwind CSS` |
+| **Emoto Bristol** | E-scooter platform with an Admin Panel for products/blogs and inquiry management. | `PHP`, `MySQL`, `Bootstrap` |
+| **Dantech / Sky Inside** | CMS-driven, customer-focused websites with real-time feedback and dynamic content management. | `PHP`, `MySQL`, `Bootstrap` |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinushamadushan2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinushamadushan2000&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamadushan2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+</div>
